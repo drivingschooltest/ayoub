@@ -452,7 +452,7 @@ html[lang="en"] .review-text{
   margin-bottom:2px;
 }
 .landing-phone::after{ content:" ☎ "; opacity:.85; }
-
+.landing-phone::before{ content:" ☎ "; opacity:.85; }
 
 .landing-location{
   font-size: 16px;
